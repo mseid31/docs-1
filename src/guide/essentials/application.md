@@ -108,7 +108,7 @@ Make sure to apply all app configurations before mounting the app!
 ## Multiple application instances {#multiple-application-instances}
 
 You are not limited to a single application instance on the same page. The `createApp` API allows multiple Vue applications to co-exist on the same page, each with its own scope for configuration and global assets:
-
+t
 ```js
 const app1 = createApp({
   /* ... */
